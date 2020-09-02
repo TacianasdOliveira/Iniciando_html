@@ -29,8 +29,34 @@ header#cabecalho img#icone {
 header#cabecalho {
 	border-bottom: 1px #606060 solid;
 	height: 150px;
+	background:url("file:///C:/Users/DELL/Documents/PASTA%20PROGRA/Inicio_HTML/Iniciando_html/projeto-glass-html5/_imagens/glass-logo-peq.jpg");
+	background-repeat: no-repeat;
+	background-position:0px 80px;
+	
 	
 }
+
+header#cabecalho h1{
+	font-family: Arial, sans-serif;
+	font-size: 30px;
+	color: #606060;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.6);
+	padding: 0px;
+	margin-bottom:0px;
+		
+}
+header#cabecalho h2{
+	font-family: Arial, sans-serif;
+	font-size: 15pt;
+	color: #888888;
+	padding: 0px;
+	margin-top:0px;
+	
+	
+	
+}
+
+
 /*Formatação de imagens com legendas*/
 
 figure.foto-legenda {
